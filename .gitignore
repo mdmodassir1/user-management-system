@@ -1,0 +1,17 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/package-lock.json
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/package-lock.json
+frontend/build/
+
+# Common
+.DS_Store
+.vscode/
+.idea/
+logs/
+*.log
