@@ -63,5 +63,10 @@ A full-stack user management system with Role-Based Access Control (RBAC), built
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/user-management-system.git
+git clone https://github.com/mdmodassir1/user-management-system
 cd user-management-system
+
+## Environment Setup
+
+1. Copy `.env.example` to `.env`
+2. Update the values in `.env` with your own credentials
