@@ -4,8 +4,8 @@ A full-stack user management system with Role-Based Access Control (RBAC), built
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
-- **Backend API:** [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+- **Frontend:** [https://your-frontend-url.vercel.app](https://user-management-frontend-8571.onrender.com)
+- **Backend API:** [https://your-backend-url.onrender.com](https://user-management-backend-z62h.onrender.com)
 
 ## 📋 Features
 
