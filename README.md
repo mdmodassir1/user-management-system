@@ -51,7 +51,7 @@ Backend API: https://user-management-backend-z62h.onrender.com
 | **Database** | MongoDB Atlas |
 | **Authentication** | JWT, bcryptjs |
 | **Styling** | CSS Custom |
-| **Deployment** | Vercel (Frontend), Render (Backend) |
+| **Deployment** | Render (Frontend), Render (Backend) |
 
 ## 📦 Installation
 
